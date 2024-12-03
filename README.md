@@ -88,3 +88,4 @@ The application combines real-world emission factors and calculations with an en
    ```bash
    git clone https://github.com/raunakmankapure/carbon_emmission_cal
    cd ridebuddy
+   flutter pub get
