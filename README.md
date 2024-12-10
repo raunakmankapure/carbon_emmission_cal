@@ -91,3 +91,5 @@ The application combines real-world emission factors and calculations with an en
    git clone https://github.com/raunakmankapure/carbon_emmission_cal
    cd file_name
    flutter pub get
+   flutter run
+   
