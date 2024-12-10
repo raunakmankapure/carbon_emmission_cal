@@ -82,6 +82,8 @@ The application combines real-world emission factors and calculations with an en
 ### Prerequisites
 - Flutter SDK installed
 - `pubspec.yaml` dependencies resolved
+- flutter run
+- 
 
 ### Setup
 1. Clone the repository:
